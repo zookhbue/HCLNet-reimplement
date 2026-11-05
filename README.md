@@ -1,4 +1,4 @@
-# HCLNet — reference implementation on FDCompCN
+# HCLNet
 
 A runnable implementation of HCLNet ("Hypergraph-based contrastive learning for
 enhanced fraud detection", Wang, Shen & Dong, *Frontiers in AI* 8:1703135, 2025).
