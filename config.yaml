@@ -1,0 +1,16 @@
+# HCLNet on FDCompCN
+seed: 1
+hidden: 64
+layers: 4
+heads: 4
+dropout: 0.2
+lr: 0.005
+weight_decay: 0.0001
+epochs: 500
+patience: 20
+eval_every: 5
+tau: 0.8          
+alpha: 0.8        
+mask_rate: 0.2    
+noise: 0.1
+edge_rate: 0.1    
